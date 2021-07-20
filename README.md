@@ -1,7 +1,7 @@
 # Fork Supporting LesDunaway.com
 This fork will have the .html "extends" templates, graphics and routes for additional pages
 
-++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++ Based On +++++++++++++++++++++++++++++++++
 # Flask-Gunicorn-Bootstrap-Website-Templates
 A deployable Flask-Gunicorn-Bootstrap4 template with home, about, blog, store &amp; contact pages - ready to deploy on linode/almalinux/inginx
   ## There will be an increasing number of forks
